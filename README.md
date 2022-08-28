@@ -1,7 +1,7 @@
 # Olá pessoal!
 
 Este é um documento simples sobre animais em extinção, onde coloquei em pratica
-meu aprendizado sobre as tags de parágrafos <p>, negrito <b>, lista não-ordenada <lu>
+meu aprendizado sobre as tags de parágrafos p, negrito b, lista não-ordenada lu
 e iframe usando um video do Youtube.
   
 ## What's in this project?
