@@ -12,5 +12,5 @@ e iframe usando um video do Youtube.
 
 ← `style.css`: Css bem básico apenas para o body e h1.
 
-← `script.js`: Por enquanot está vazio.
+← `script.js`: Por enquanto está vazio.
 
